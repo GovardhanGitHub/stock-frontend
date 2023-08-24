@@ -1,3 +1,8 @@
+# for Backend
+
+1. clone the library https://github.com/angel-one/smartapi-python.git
+2. refer main.py in frontend
+
 # FrontStock
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.18.
